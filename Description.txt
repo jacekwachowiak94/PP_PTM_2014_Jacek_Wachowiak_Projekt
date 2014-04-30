@@ -1,0 +1,2 @@
+Projekt gry w c++ z wykorzystaniem OpenGL, Jacek Wachowiak AiR sem 2 WEL PP, 
+lab Informatyka - porowadz¹cy mgr in¿. Micha³ Fularz
